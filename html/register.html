@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+        <link rel="stylesheet" href="../css/style1.css" >  
+   
+        <title>SIGN IN</title>
+    </head>
+    <body id="loginBody">
+        <p style="width: 100%;display: flex;justify-content: center;margin-left: -50px;margin-top:30px;color: white;font-size: 26px;font-weight: 700;font-family:Verdana, Geneva, Tahoma, sans-serif;">WELCOME TO Bakery's</p>
+        <div id="form-container">
+            <form>
+            <h1 >Create Account</h1>
+            <input  placeholder="Enter Your UserName" id="username">
+            <span id="name_error_mg" >name is required</span>
+
+            <input  placeholder="Enter Your Email" id="email">
+            <span id="email_error_mg">email not valid</span>
+
+            <input placeholder="Enter Your password" id="password">
+            <span id="password_error_mg">password must be at least 8 characters</span>
+           
+            <input placeholder="Password Confirm" id="passwordconfirm">
+            <span id="password_confirm_error_mg"></span>
+
+            <button type="submit" id="loginSubmitBtn">Sign IN</button>
+            <p>Already have account?<a href="login.html">Login</a></p>
+        </form></div>
+        <script src="../javascript/RegisterValidation .js"></script>
+</body>
+</html>

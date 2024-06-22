@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="../css/style1.css">
+    <title>products</title>
+</head>
+<body class="">
+    <header>
+        <div id="header-line">
+        <H1>BaKERY sHOP</H1>
+        <ul>
+        <li><a href="/html/homePage.html">Home</a></li>
+        <li><a href="/html/productPage.html">Products</a></li>
+       
+       
+        <li>    <section ><h3>welcome</h3><h4 ><script>document.write(JSON.parse(localStorage.getItem("users"))[0].username)</script></h4></section></li>
+        
+        <li><button id="logoutbtn">logout</button></li>
+    </ul>
+    </div>
+        </header>
+<div class="Product-page-container">
+    <header class="product_header">
+        <div class="title">Our Products</div>
+        <div class="icon-cart"><img src="../images/case.png"><span>0</span></div>
+       
+    </header>
+    <div class="listProduct">
+        <div class="item">
+        </div>
+      
+    </div>
+</div>
+<div class="cartTab">
+    <h1>Shopping Cart</h1>
+    <div class="listCart">
+</div>
+<div class="totalCost"></div>
+    <div class="btn">
+        <button class="close">CLOSE</button>
+        <button class="checkOut">CHECK OUT</button>
+    </div>
+</div>
+<div class="pg5-footer">
+    <footer>
+        <div class="FOOTER-RoW">
+        <div class="footerColumn">
+          <div class="logoRow">
+            <img src="/images/logo2.jpg" alt="Logo">
+          </div>
+          <div class="row">
+            <h4 >We glad to serve to you Our Products. <br>Everyone loves baked goods, be it sweet items like cakes, muffins, <br>and cookies or savory baked food like pizzas, buns, bread,<br> and puff pastry. Baking takes a lot of effort and patience</h4>
+          </div>
+        
+        </div>
+     
+      
+        <div class="footerColumn">
+          <div class="row">
+            <h3 class="MAinH3">QUICK LINKS</h3>
+          </div>
+          <div class="row">
+            <a href="/html/homePage.html"><p>home</p></a>
+          </div>
+          <div class="row">
+            <a href="/html/productPage.html"> <p>Products</p></a>
+          </div>
+        
+        </div>
+      
+        <div class="footerColumn">
+          <div class="row">
+            <h3 class="MAinH3">Contact</h3>
+          </div>
+          <div class="row">
+            <p>Phone: 123-456-7890</p>
+          </div>
+          <div class="row">
+            <p>Email: mr.baker@gmail.com</p>
+          </div>
+        </div>
+    </div>
+      </footer>
+    </div>
+
+
+    <script src="/javascript/productPage.js"></script>
+
+</body>
+</html>

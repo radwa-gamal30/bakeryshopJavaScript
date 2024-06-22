@@ -1,0 +1,154 @@
+[
+{
+    "id":1,
+    "category":"A",
+    "name":"Basic bread",
+    "price":"10",
+    "image":"/images/bread.jfif",
+    "description":"basic white bread,\nperfect smell..perfect taste\n\n ",
+    "ingredients":"125ml milk, preferably whole milk, plus extra for glazing ,7g fast-action dried yeast ,350g strong white bread flour, plus extra for dusting,50g caster sugar,1 egg,50g unsalted butter, softened and cut into cubesneutral-tasting oil, such as sunflower, for proving20g strong white bread flour60ml milk, preferably whole"
+
+
+},
+{
+    "id":2,
+    "category":"B",
+    "name":"biscuit",
+    "price":"10",
+    "image":"/images/biscuit.png",
+    "description":"luxury biscuits \twith chocolate ships  \nperfect smell..perfect taste\n\n",
+        "ingredients":"125ml milk, preferably whole milk, plus extra for glazing ,7g fast-action dried yeast ,350g strong white bread flour, plus extra for dusting,50g caster sugar,1 egg,50g unsalted butter, softened and cut into cubesneutral-tasting oil, such as sunflower, for proving20g strong white bread flour60ml milk, preferably whole"
+},
+{
+    "id":3,
+    "category":"D",
+    "name":"apple Pie",
+    "price":50,
+    "image":"/images/apple-pie.jpg",
+    "description":"pie of apples\nperfect smell..perfect taste \nperfect smell..perfect taste\n\n",
+        "ingredients":"125ml milk, preferably whole milk, plus extra for glazing ,7g fast-action dried yeast ,350g strong white bread flour, plus extra for dusting,50g caster sugar,1 egg,50g unsalted butter, softened and cut into cubesneutral-tasting oil, such as sunflower, for proving20g strong white bread flour60ml milk, preferably whole"
+
+},
+{
+    "id":4,
+    "category":"B",
+    "name":"cupcakes",
+    "price":10,
+    "image":"/images/cupcake.jpg",
+    "description":"cup cakes \twith chocolate ships\tperfect smell..perfect taste \nperfect smell..perfect taste\n\n",
+        "ingredients":"50ml rapeseed oil,1 tsp cider vinegar,200ml plant milk (we used oat),225g self-raising flour,½ tsp baking powder,150g golden caster sugar,2 tsp vanilla paste,200g vegan plant butter block, softened,2 tsp vanilla paste,400g icing sugar"
+
+},
+{
+    "id":5,
+    "category":"B",
+    "name":"Hazelnut Muffins",
+    "price":10,
+    "image":"/images/HazelnutMuffins_Lead.jpg",
+    "description":"perfect muffins \tyou will ever experience... \nperfect smell..perfect taste\n\n",
+        "ingredients":"50ml rapeseed oil,1 tsp cider vinegar,200ml plant milk (we used oat),225g self-raising flour,½ tsp baking powder,150g golden caster sugar,2 tsp vanilla paste,200g vegan plant butter block, softened,2 tsp vanilla paste,400g icing sugar"
+
+},
+{
+    "id":6,
+    "category":"D",
+    "name":"Honey Pie",
+    "price":100,
+    "image":"/images/honey-pie.jpg",
+    "description":"pie of honey\nperfect smell..perfect taste \nperfect smell..perfect taste . . .\n\n",
+        "ingredients":"125ml milk, preferably whole milk, plus extra for glazing ,7g fast-action dried yeast ,350g strong white bread flour, plus extra for dusting,50g caster sugar,1 egg,50g unsalted butter, softened and cut into cubesneutral-tasting oil, such as sunflower, for proving20g strong white bread flour60ml milk, preferably whole"
+
+},
+{
+    "id":7,
+    "category":"C",
+    "name":"Dounats",
+    "price":45,
+    "image":"/images/dounuts.avif",
+    "description":"lovely varial of Dounuts\t you will Surely love \nperfect smell..perfect taste...\n\n",
+        "ingredients":"125ml milk, preferably whole milk, plus extra for glazing ,7g fast-action dried yeast ,350g strong white bread flour, plus extra for dusting,50g caster sugar,1 egg,50g unsalted butter, softened and cut into cubesneutral-tasting oil, such as sunflower, for proving20g strong white bread flour60ml milk, preferably whole"
+
+},
+{
+    "id":8,
+    "category":"C",
+    "name":"Staffed Dounats",
+    "price":50,
+    "image":"/images/staffedDonuts.jpg",
+    "description":"lovely varial of Staffed Dounuts\t you will love  \nperfect smell..perfect taste\n\n",
+        "ingredients":"125ml milk, preferably whole milk, plus extra for glazing ,7g fast-action dried yeast ,350g strong white bread flour, plus extra for dusting,50g caster sugar,1 egg,50g unsalted butter, softened and cut into cubesneutral-tasting oil, such as sunflower, for proving20g strong white bread flour60ml milk, preferably whole"
+
+},
+{
+    "id":9,
+    "category":"D",
+    "name":"Brownies",
+    "price":15,
+    "image":"/images/brownies.jpg",
+    "description":"amazing chocolate Brownies \nsurely you will love \nperfect smell..perfect taste\n\n",
+        "ingredients":"50ml rapeseed oil,1 tsp cider vinegar,200ml plant milk (we used oat),225g self-raising flour,½ tsp baking powder,150g golden caster sugar,2 tsp vanilla paste,200g vegan plant butter block, softened,2 tsp vanilla paste,400g icing sugar"
+
+},
+{
+    "id":10,
+    "category":"A",
+    "name":"croissont",
+    "price":10,
+    "image":"/images/croissont.jpg",
+    "description":"basic white croissont \nperfect smell..perfect taste . . .  \nperfect smell..perfect taste\n\n",
+        "ingredients":"125ml milk, preferably whole milk, plus extra for glazing ,7g fast-action dried yeast ,350g strong white bread flour, plus extra for dusting,50g caster sugar,1 egg,50g unsalted butter, softened and cut into cubesneutral-tasting oil, such as sunflower, for proving20g strong white bread flour60ml milk, preferably whole"
+
+},
+{
+    "id":11,
+    "category":"A",
+    "name":"seedsLoaf",
+    "price":25,
+    "image":"/images/seedsloaf.webp",
+    "description":"incredible taste you will enjoy \nperfect smell..perfect taste. . .  \nperfect smell..perfect taste\n\n",
+        "ingredients":"125ml milk, preferably whole milk, plus extra for glazing ,7g fast-action dried yeast ,350g strong white bread flour, plus extra for dusting,50g caster sugar,1 egg,50g unsalted butter, softened and cut into cubesneutral-tasting oil, such as sunflower, for proving20g strong white bread flour60ml milk, preferably whole"
+
+},
+{
+    "id":12,
+    "category":"A",
+    "name":"Choco Pate`",
+    "price":15,
+    "image":"/images/Bate's.jpg",
+    "description":"pate` of chocolate,you will definitely enjoy . . .  \nperfect smell..perfect taste\n\n",
+        "ingredients":"50ml rapeseed oil,1 tsp cider vinegar,200ml plant milk (we used oat),225g self-raising flour,½ tsp baking powder,150g golden caster sugar,2 tsp vanilla paste,200g vegan plant butter block, softened,2 tsp vanilla paste,400g icing sugar"
+},
+{
+    "id":13,
+    "category":"A",
+    "name":"Mini's",
+    "price":5,
+    "image":"/images/mini-staffed.jpg",
+    "description":"basic mini staffed croissonts  \tendless enjoy. . .  \nperfect smell..perfect taste\n\n",
+        "ingredients":"125ml milk, preferably whole milk, plus extra for glazing ,7g fast-action dried yeast ,350g strong white bread flour, plus extra for dusting,50g caster sugar,1 egg,50g unsalted butter, softened and cut into cubesneutral-tasting oil, such as sunflower, for proving20g strong white bread flour60ml milk, preferably whole"
+
+
+},
+{
+    "id":14,
+    "category":"D",
+    "name":"chocolate pizza",
+    "price":25,
+    "image":"/images/Chocolate-pizza.jpg",
+    "description":"basic mini staffed croissonts  \tendless enjoy. . .  \nperfect smell..perfect taste\n\n",
+        "ingredients":"125ml milk, preferably whole milk, plus extra for glazing ,7g fast-action dried yeast ,350g strong white bread flour, plus extra for dusting,50g caster sugar,1 egg,50g unsalted butter, softened and cut into cubesneutral-tasting oil, such as sunflower, for proving20g strong white bread flour60ml milk, preferably whole"
+
+
+},
+{
+    "id":15,
+    "category":"A",
+    "name":"pretzels",
+    "price":5,
+    "image":"/images/pretzels.jpg",
+    "description":"easy crunch pretzels endless enjoy. . .  \nperfect smell..perfect taste\n\n",
+        "ingredients":"125ml milk, preferably whole milk, plus extra for glazing ,7g fast-action dried yeast ,350g strong white bread flour, plus extra for dusting,50g caster sugar,1 egg,50g unsalted butter, softened and cut into cubesneutral-tasting oil, such as sunflower, for proving20g strong white bread flour60ml milk, preferably whole"
+
+
+}
+]
